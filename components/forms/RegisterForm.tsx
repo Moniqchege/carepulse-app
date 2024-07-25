@@ -362,7 +362,7 @@ const RegisterForm = ({ user }: { user: User }) => {
             fieldType={FormFieldType.CHECKBOX}
             control={form.control}
             name="disclosureConsent"
-            label="I consent to the use and disclosure of my health
+            label="I consent to disclosure of my health
             information for treatment purposes."
           />
 
